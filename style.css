@@ -1,0 +1,92 @@
+*{
+margin:0;
+padding:0;
+}
+.div1{
+    width: 1349px;
+    height: 700px;
+    background-image: url(31.jpg.png);
+    
+}
+.about{
+text-align: center;
+text-decoration-color: gold;
+background-color:rgb(243, 52, 52);
+font-weight: bold;
+padding: 6px 20px;
+text-decoration: none;
+color:lightcyan;
+}
+.showreel{
+    text-align: center;
+}
+.photos{
+    text-align: center;
+    background-color:lightgoldenrodyellow;
+    border-radius: 90px;
+}
+.contact{
+    width: 1349px;
+    height: 200px;
+    background-color:rgb(243, 52, 52);
+}
+.btn{
+    cursor: pointer;
+    font-size: 15px;
+    letter-spacing:1px;
+    padding: 10px 15px;
+    border: 2px solid whitesmoke;
+    background:rgb(214, 62, 62);
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin: 30px 8px;
+   
+}
+.navbar{
+    text-align: left;
+    flex: 1;
+}
+.navbar a{
+    padding: 6px 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.content{
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 12%;
+}
+.content h1{
+    font-size: 70px;
+    color: cornsilk;
+}
+.content h4{
+    font-size: 50px;
+    color: darkgrey;
+}
+.content h6{
+    font-size: 15px;
+    color: cornsilk;
+}
+.contact h1{
+    font-size: 70px;
+    color: cornsilk;
+    margin-left:5%;
+    text-align: left;
+}
+.photos img{
+    border-radius: 90px;
+}
+.photos h1{
+    color: red;
+}
+.showreel h1{
+    color: red;
+}
+.showreel iframe{
+    border-radius: 90px;
+}
